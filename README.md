@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Abdoulaye, welcome on my Github. 👋
+
+### About Me 
+
+I'm a Fullstack developer with a bachelor degree in Computer Science from the University of Nice Sophia Antipolis (France).
+
+I'm also a technical instructor and entrepreneur who loves to learn and share. 
+
+
 
 <!--
 **abdoulayebinta/abdoulayebinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
