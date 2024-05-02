@@ -14,9 +14,8 @@
 
 ### About Me 
 
-I'm Abdoulaye Binta Bah, a passionate Fullstack developer with a bachelor degree in Computer Science from the University of Nice Sophia Antipolis (France).
-
-I'm also a technical instructor and entrepreneur who loves to learn and share. 
+Experienced Product Manager with a bachelor’s degree in computer science and 6 years in digital product management. Certified in Safe POPM, CSPO, PSPO, and PSM. Deep understanding of software development, system architecture, and technology infrastructure. Skilled in crafting user stories, project management, and data-driven decision-making. Proficient in French and English, adept at cross-team collaboration. ![image](https://github.com/abdoulayebinta/abdoulayebinta/assets/20908586/2c1cd75a-d11c-495a-9a17-f629c6c8cb30)
+ 
 
 <br/>
 <hr />
