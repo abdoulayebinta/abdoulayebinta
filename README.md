@@ -14,7 +14,7 @@
 
 ### About Me 
 
-Experienced Product Manager with a bachelor’s degree in computer science and 6 years in digital product management. Certified in Safe POPM, CSPO, PSPO, and PSM. Deep understanding of software development, system architecture, and technology infrastructure. Skilled in crafting user stories, project management, and data-driven decision-making. Proficient in French and English, adept at cross-team collaboration. 
+Experienced Product Manager and Product Owner with a bachelor’s degree in computer science and 6 years in digital product management. Certified in Safe POPM, CSPO, PSPO, and PSM. Deep understanding of software development, system architecture, and technology infrastructure. Skilled in crafting user stories, project management, and data-driven decision-making. Proficient in French and English, adept at cross-team collaboration. 
  
 
 <br/>
