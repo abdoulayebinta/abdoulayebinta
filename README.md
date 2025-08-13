@@ -66,7 +66,7 @@ With 6+ years shaping solutions in tech and healthcare, I specialize in **metric
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye%20Bah-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdoulayebinta)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye%20Bah-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/abdoulayebinta](https://www.linkedin.com/in/abdoulayebintabah/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://abdoulayebah.com)  
 [![Email](https://img.shields.io/badge/Email-Your_Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bahabdoulayebinta@gmail.com)
 
