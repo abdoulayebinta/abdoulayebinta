@@ -20,12 +20,28 @@ With 6+ years shaping solutions in tech and healthcare, I specialize in **metric
 
 ---
 
-## 🛠️ Skills & Tools
-![Product Management](https://img.shields.io/badge/Product_Management-4285F4?style=flat&logo=google-analytics&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-FF6B6B?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat&logo=tableau&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+### 🛠️ Skills & Tools
+
+![Agile](https://img.shields.io/badge/Agile-FF6B6B?style=flat&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-007ACC?style=flat)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-3A5FCD?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A--B_Testing-4CAF50?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-05A9F4?style=flat&logo=miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=atlassian&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![AI Ethics](https://img.shields.io/badge/AI_Ethics-FF6B6B?style=flat)
+![Leadership](https://img.shields.io/badge/Leadership-FFB300?style=flat)
+![User-Centric Design](https://img.shields.io/badge/User-Centric_Design-00BFFF?style=flat)
+![Strategic Thinking](https://img.shields.io/badge/Strategic_Thinking-228B22?style=flat)
+
 
 ---
 
@@ -37,8 +53,8 @@ With 6+ years shaping solutions in tech and healthcare, I specialize in **metric
 ---
 
 ## 📊 GitHub Stats
-![Abdoulaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+![Abdoulaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoulayebinta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulayebinta&layout=compact&theme=tokyonight)
 
 ---
 
@@ -50,9 +66,9 @@ With 6+ years shaping solutions in tech and healthcare, I specialize in **metric
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye%20Bah-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](YOUR-PORTFOLIO-LINK)  
-[![Email](https://img.shields.io/badge/Email-Your_Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye%20Bah-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdoulayebinta)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://abdoulayebah.com)  
+[![Email](https://img.shields.io/badge/Email-Your_Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bahabdoulayebinta@gmail.com)
 
 ---
 
