@@ -1,60 +1,59 @@
-### Hi there! I'm Abdoulaye, welcome on my Github. 👋
+# 👋 Hi, I'm Abdoulaye Bah  
 
-<hr />
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+[![LinkedIn Badge](https://img.shields.io/badge/-Abdoulaye%20Bah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINKEDIN)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](YOUR-PORTFOLIO-LINK)
+[![Gmail Badge](https://img.shields.io/badge/-your@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com)
 
-<a href="https://www.linkedin.com/in/abdoulayebintabah/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:bahabdoulayebinta@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+🚀 **Product Manager | Builder’s Mindset | Data-Driven Decision Maker**  
 
-<br/>
+I turn ideas into impactful products by blending **technical depth** with **user-centric strategy**.  
+With 6+ years shaping solutions in tech and healthcare, I specialize in **metrics-driven decisions**, **lean execution**, and **scalable products**—without losing sight of the human behind the data.  
 
+---
 
-### About Me 
+## 💡 What I Do
+- **Product Strategy:** Visions, roadmaps, and measurable outcomes  
+- **Execution Leadership:** Driving cross-functional teams from concept to launch  
+- **Data-Driven Decisions:** Analytics to guide continuous improvement  
+- **AI & Emerging Tech:** Practical applications to solve real problems  
 
-Experienced Product Manager and Product Owner with a bachelor’s degree in computer science and 6 years in digital product management. Certified in Safe POPM, CSPO, PSPO, and PSM. Deep understanding of software development, system architecture, and technology infrastructure. Skilled in crafting user stories, project management, and data-driven decision-making. Proficient in French and English, adept at cross-team collaboration. 
- 
+---
 
-<br/>
-<hr />
+## 🛠️ Skills & Tools
+![Product Management](https://img.shields.io/badge/Product_Management-4285F4?style=flat&logo=google-analytics&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-FF6B6B?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/abdoulayebinta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdoulayebinta&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulayebinta&layout=compact&langs_count=7&theme=gradient"/>
-</div>
+---
 
-### ⚡ Technologies I love and use
-<hr />
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  
-                                                              
-</div>
-<!--
-**abdoulayebinta/abdoulayebinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
+- **[Ukraine Virtual Space Project – WHO](#)**: Real-time dashboard for healthcare recovery.  
+- **[HemeChip App](#)**: Android app diagnosing sickle cell disease in low-resource settings.  
+- **[AI Experiments](#)**: Prototypes applying AI to enhance product workflows.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Abdoulaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Exploring
+- AI Product Management  
+- Generative AI in product workflows  
+- Advanced product analytics  
+
+---
+
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoulaye%20Bah-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](YOUR-PORTFOLIO-LINK)  
+[![Email](https://img.shields.io/badge/Email-Your_Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+*"Great products are built at the intersection of empathy, data, and execution."*  
