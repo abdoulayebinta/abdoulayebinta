@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abdoulayebinta&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn Badge](https://img.shields.io/badge/-Abdoulaye%20Bah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/abdoulayebintabah)](https://www.linkedin.com/in/abdoulayebintabah/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)]([YOUR-PORTFOLIO-LINK](https://abdoulayebah.com/))
-[![Gmail Badge](https://img.shields.io/badge/-your@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com)
+[![Gmail Badge](https://img.shields.io/badge/-your@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:bahabdoulayebinta@gmail.com)
 
 🚀 **Product Manager | Builder’s Mindset | Data-Driven Decision Maker**  
 
